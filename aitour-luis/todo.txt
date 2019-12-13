@@ -1,0 +1,2 @@
+﻿- agregar booty como card en workflow
+- preguntar si no esta los registros que esta ingresando y que pida completar lo que falta.
